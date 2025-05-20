@@ -17,6 +17,10 @@
     "url": "https://github.com/esha-susan/my-ci-workflow/issues"
   },
   "homepage": "https://github.com/esha-susan/my-ci-workflow#readme",
+"dependencies": {
+  "minimist": "0.0.8"
+},
+
   "devDependencies": {
     "jest": "^29.7.0"
   }
