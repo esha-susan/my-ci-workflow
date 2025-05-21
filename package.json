@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/esha-susan/my-ci-workflow#readme",
 "dependencies": {
-  "minimist": "0.0.8"
+  "minimist": "1.2.8"
 },
 
   "devDependencies": {
